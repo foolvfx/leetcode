@@ -2,7 +2,7 @@
 // 03-08-22
 // 157ms - Faster Than 56.96%
 // 47.5MB - Less Than 50.79%
-import { ListNode } from "../exports.js";
+import { ListNode } from "./exports.js";
 
 var mergeKLists = function(lists)
 {

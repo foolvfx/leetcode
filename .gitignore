@@ -1,2 +1,3 @@
 .vscode
-./JavaScript/package.json
+JavaScript/exports.js
+benchTest.js
