@@ -67,6 +67,8 @@
 ---
 ### **C++**
 - [Redistribute Characters to Make All Strings Equal](C++/MakeAllStringsEqual.cpp)
+### **JavaScript**
+- [First Unique Character in a String](JavaScript/firstUniqueChar.js)
 
 ## **Depth-First Search**
 ---
@@ -110,6 +112,7 @@
 ### **JavaScript**
 - [Contains Duplicate](JavaScript/Contains%20Duplicate.js)
 - [First Missing Positive](JavaScript/First%20Missing%20Positive.js)
+- [First Unique Character in a String](JavaScript/firstUniqueChar.js)
 - [Intersect of Two Arrays II](JavaScript/Intersect%20of%20Arrays%20II.js)
 - [Longest Substring Without Repeating Characters](JavaScript/Longest%20Substring.js)
 - [Two Sum](JavaScript/Two%20Sum.js)
@@ -159,6 +162,8 @@
 ---
 ### **C++**
 - [Implement Stack using Queues](C++/StackUsingQueues.cpp)
+### **JavaScript**
+- [First Unique Character in a String](JavaScript/firstUniqueChar.js)
 
 ## **Recursion**
 ---
@@ -210,6 +215,7 @@
 - [Roman to Integer](C++/RomanToInt.cpp)
 ### **JavaScript**
 - [3sum Closest](JavaScript/3sum%20Closest.js)
+- [First Unique Character in a String](JavaScript/firstUniqueChar.js)
 - [Longest Substring Without Repeating Characters](JavaScript/Longest%20Substring.js)
 - [Minimum Remove to Make Valid Parenthesis](JavaScript/Valid%20Parenthesis%20II.js)
 - [Simplify Path](JavaScript/Simplify%20Path.js)
