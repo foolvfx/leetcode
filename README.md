@@ -129,6 +129,7 @@
 - [Linked List Cycle](JavaScript/Linked%20List%20Cycle.js)
 - [Merge k Sorted Lists](JavaScript/Merge%20k%20Sorted%20Lists.js)
 - [Remove Duplicates from Sorted List](JavaScript/RemoveDupesLL.js)
+- [Remove Linked List Elements](JavaScript/removeLLelements.js)
 - [Remove Nth Node From End of List](JavaScript/Remove%20Nth%20Node%20from%20End.js)
 - [Rotate List](JavaScript/Rotate%20List.js)
 - [Swap Nodes in Pairs](JavaScript/Swap%20Nodes%20in%20Pairs.js)
@@ -165,6 +166,7 @@
 - [Merge Two Sorted Lists](C++/MergeSortedLists.cpp)
 ### **JavaScript**
 - [Add Two Numbers](JavaScript/Add%20Two%20Numbers.js)
+- [Remove Linked List Elements](JavaScript/removeLLelements.js)
 - [Swap Nodes in Pairs](JavaScript/Swap%20Nodes%20in%20Pairs.js)
 
 ## **Simulation**
