@@ -116,6 +116,7 @@
 - [Intersect of Two Arrays II](JavaScript/Intersect%20of%20Arrays%20II.js)
 - [Longest Substring Without Repeating Characters](JavaScript/Longest%20Substring.js)
 - [Two Sum](JavaScript/Two%20Sum.js)
+- [Valid Anagram](JavaScript/validAnagram.js)
 
 ## **Heap (Priority Queue)**
 ---
@@ -195,6 +196,7 @@
 - [Contains Duplicate](JavaScript/Contains%20Duplicate.js)
 - [Intersect of Two Arrays II](JavaScript/Intersect%20of%20Arrays%20II.js)
 - [Merge Sorted Array](JavaScript/Merge%20Sorted%20Array.js)
+- [Valid Anagram](JavaScript/validAnagram.js)
 
 ## **Stack**
 ---
@@ -221,6 +223,7 @@
 - [Longest Substring Without Repeating Characters](JavaScript/Longest%20Substring.js)
 - [Minimum Remove to Make Valid Parenthesis](JavaScript/Valid%20Parenthesis%20II.js)
 - [Simplify Path](JavaScript/Simplify%20Path.js)
+- [Valid Anagram](JavaScript/validAnagram.js)
 - [Valid Palindrome](JavaScript/Valid%20Palindrome.js)
 - [Valid Parenthesis](JavaScript/Valid%20Parenthesis.js)
 
