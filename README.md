@@ -29,6 +29,7 @@
 ## **Array**
 ---
 ### **C#**
+- [Maximum Subarray](C#/MaximumSubarray.cs)
 - [Richest Customer Wealth](C#/RichestCustomer.cs)
 ### **C++**
 - [Convert Sorted Array to Binary Search Tree](C++/ArrayToBST.cpp)
@@ -84,6 +85,8 @@
 
 ## **Divide and Conquer**
 ---
+### **C#**
+- [Maximum Subarray](C#/MaximumSubarray.cs)
 ### **C++**
 - [Convert Sorted Array to Binary Search Tree](C++/ArrayToBST.cpp)
 ### **JavaScript**
@@ -93,6 +96,8 @@
 
 ## **Dynamic Programming**
 ---
+### **C#**
+- [Maximum Subarray](C#/MaximumSubarray.cs)
 ### **C++**
 - [Minimum Time to Make Rope Colorful](C++/MakeRopeColorful.cpp)
 - [Pascal's Triangle](C++/PascalsTriangle.cpp)
