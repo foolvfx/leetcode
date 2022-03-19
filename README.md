@@ -28,6 +28,8 @@
 
 ## **Array**
 ---
+### **C#**
+- [Richest Customer Wealth](C#/RichestCustomer.cs)
 ### **C++**
 - [Convert Sorted Array to Binary Search Tree](C++/ArrayToBST.cpp)
 - [Minimum Time to Make Rope Colorful](C++/MakeRopeColorful.cpp)
@@ -150,6 +152,8 @@
 
 ## **Matrix**
 ---
+### **C#**
+- [Richest Customer Wealth](C#/RichestCustomer.cs)
 ### **C++**
 - [Valid Sudoku](C++/ValidSudoku.cpp)
 ### **JavaScript**
